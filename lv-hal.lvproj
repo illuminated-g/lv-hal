@@ -60,7 +60,7 @@
 				<Property Name="TgtF_autoIncrement" Type="Bool">true</Property>
 				<Property Name="TgtF_companyName" Type="Str">Halliburton</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">lv-hal PPL</Property>
-				<Property Name="TgtF_fileVersion.build" Type="Int">10</Property>
+				<Property Name="TgtF_fileVersion.build" Type="Int">18</Property>
 				<Property Name="TgtF_fileVersion.major" Type="Int">1</Property>
 				<Property Name="TgtF_internalName" Type="Str">lv-hal PPL</Property>
 				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2020 Halliburton</Property>
