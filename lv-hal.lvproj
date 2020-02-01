@@ -40,7 +40,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToCommon</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{AD8AA6F6-D5D4-4861-8945-FEDB44575A5B}</Property>
-				<Property Name="Bld_version.build" Type="Int">10</Property>
+				<Property Name="Bld_version.build" Type="Int">18</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">lv-hal.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../build/ppl/NI_AB_PROJECTNAME.lvlibp</Property>
